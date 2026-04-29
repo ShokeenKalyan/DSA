@@ -16,3 +16,9 @@ function removeElement(nums, val) {
 }
 
 
+// coding, fundamental thinking, structure, code correctness, failure, concurrency
+// design order apis for customer website, api signature, request response
+// data model for online stores
+// lru cache, space time complexity, thread safety, concurrency
+// ask clarifying questions sla, scale, constraints
+// how to prevent uplicates

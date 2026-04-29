@@ -653,36 +653,43 @@
 4. Valid Palindrome
 [PL] https://leetcode.com/problems/valid-palindrome/description/
 [SL] https://leetcode.com/problems/valid-palindrome/submissions/1793075021/
+[RL](3-strings\4-valid-pallindrome.md)
 [DA] Easy | 2 Pointers
 
 5. Valid Palindrome II
 [PL] https://leetcode.com/problems/valid-palindrome-ii/
 [SL] https://leetcode.com/problems/valid-palindrome-ii/submissions/1671430363/
+[RL](3-strings\5-valid-pallindrome-2.md)
 [DA] Easy | 2 Pointers
 
 6. Long Pressed Name
 [PL] https://leetcode.com/problems/long-pressed-name/description/
 [SL] https://leetcode.com/problems/long-pressed-name/submissions/1799460967/
+[RL](3-strings\6-long-pressed-name.md)
 [DA] Easy | 2 Pointers
 
 7. Minimum Length of String After Deleting Similar Ends
 [PL] https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/
 [SL] https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/submissions/1802396877/
+[RL](3-strings\7-minimum-length-string.md)
 [DA] Medium | 2 Pointers
 
 8. Reverse Words in a String
 [PL] https://leetcode.com/problems/reverse-words-in-a-string/
 [SL] https://leetcode.com/problems/reverse-words-in-a-string/submissions/1779040839/
+[RL](3-strings\8-reverse-words-in-string.md)
 [DA] Medium | 2 Pointers
 
 9. String Compression
 [PL] https://leetcode.com/problems/string-compression/
 [SL] https://leetcode.com/problems/string-compression/submissions/1799411827/
+[RL](3-strings\9-strings-compression.md)
 [DA] Medium | 2 Pointers
 
 10. CamelCase Matching
 [PL] https://leetcode.com/problems/camelcase-matching/
 [SL] https://leetcode.com/problems/camelcase-matching/submissions/1800249740/
+[RL](3-strings\10-camelcase-matching.md)
 [DA] Medium | Miscellaneous, 2 Pointer
 
 
@@ -697,16 +704,19 @@
 2. Substrings of Size Three with Distinct Characters
 [PL] https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/
 [SL] https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/submissions/1860522194/
+[RL](3-strings\11-substring-size-three.md)
 [DA] Easy | Sliding Window
 
 3. Find All Anagrams in a String
 [PL] https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
 [SL] https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/1860532539/
+[RL](3-strings\12-find-all-anagrams.md)
 [DA] Medium | Hashing, Fixed Sliding Window
 
 4. Minimum Window Substring
 [PL] https://leetcode.com/problems/minimum-window-substring/description/
-[SL] 
+[SL]
+[RL](3-strings\14-minimum-window-substring.md) 
 [DA] Hard | Variable Sliding Window
 
 
@@ -715,36 +725,43 @@
 1. Longest Common Prefix
 [PL] https://leetcode.com/problems/longest-common-prefix/
 [SL] https://leetcode.com/problems/longest-common-prefix/submissions/1671516291/
+[RL](3-strings\13-longest-common-prefix.md)
 [DA] Easy | Hashing, Vertical Scan
 
 2. Find the Index of the First Occurrence in a String
 [PL] https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 [SL] https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1788199527/
+[RL](3-strings\15-find-first-occurrence-string.md)
 [DA] Easy | Hashing, KMP/Brute
 
 3. Valid Anagram
 [PL] https://leetcode.com/problems/valid-anagram/description/
 [SL] https://leetcode.com/problems/valid-anagram/submissions/1834149160/
+[RL](3-strings\16-valid-anagram.md)
 [DA] Easy | Hashing, Frequency Count
 
 4. Group Anagrams
 [PL] https://leetcode.com/problems/group-anagrams/
 [SL] https://leetcode.com/problems/group-anagrams/submissions/1792906698/
+[RL](3-strings\17-group-anagrams.md)
 [DA] Medium | Hashing, HashMap
 
 5. Isomorphic Strings
 [PL] https://leetcode.com/problems/isomorphic-strings/description/
 [SL] https://leetcode.com/problems/isomorphic-strings/submissions/1860420973/
+[RL](3-strings\18-isomorphic-strings.md)
 [DA] Easy | Hashing, HashMap
 
 6. Repeated DNA Sequences
 [PL] https://leetcode.com/problems/repeated-dna-sequences/description/
 [SL] https://leetcode.com/problems/repeated-dna-sequences/submissions/1860516726/
+[RL](3-strings\19-repeated-dna-sequence.md)
 [DA] Medium | Hashing, HashMap + Sliding Window
 
 7. Verifying an Alien Dictionary
 [PL] https://leetcode.com/problems/verifying-an-alien-dictionary/
 [SL] https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/1787126699/
+[RL](3-strings\20-verifying-alien-dictionary.md)
 [DA] Easy | Hashing, HashMap
 
 
