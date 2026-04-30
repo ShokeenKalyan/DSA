@@ -403,6 +403,7 @@
 1. Kth Largest Element in an Array
 [PL] https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 [SL] https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1876060832/
+[RL](7-heaps\1-kth-largest-element.md)
 [DA] Medium | QuickSelect / Min-Heap
 
 
@@ -770,6 +771,7 @@
 1. Valid Paranthesis
 [PL] https://leetcode.com/problems/valid-parentheses/description/
 [SL] https://leetcode.com/problems/valid-parentheses/submissions/1863202598/
+[RL](3-strings\21-valid-paranthesis.md)
 [DA] Easy | Stack
 
 
@@ -876,6 +878,7 @@
 9. Remove Duplicates from Sorted List
 [PL] https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [SL] https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1813832615/
+[RL](2-linked_list\12-remove-duplicates-sorted-list.md)
 [DA] Easy | Dummy Node, 2 Pointer
 
 10. Swap Nodes in Pairs
