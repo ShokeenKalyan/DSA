@@ -292,16 +292,19 @@
 5. Search in Rotated Sorted Array
 [PL] https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [SL] https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1809507828/
+[RL](1-arrays\55-search-rotated-sorted-array.md)
 [DA] Medium | Binary Search
 
 6. Find Peak Element
 [PL] https://leetcode.com/problems/find-peak-element/description/
 [SL] https://leetcode.com/problems/find-peak-element/submissions/1860506120/
+[RL](1-arrays\56-find-peak-element.md)
 [DA] Medium | Binary Search
 
 7. Find Minimum in Rotated Sorted Array
 [PL] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 [SL] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1860539528/
+[RL](1-arrays\57-minimum-rotated-sorted-array.md)
 [DA] Medium | Binary Search
 
 8. **Search in a 2D Matrix**
@@ -361,6 +364,7 @@
 4. Number of Subsequences That Satisfy the Given Sum Condition
 [PL] https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/
 [SL] https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/submissions/1802336860/
+[RL](1-arrays\58-no-of-subsequences-sum-condition.md)
 [DA] Medium | Sorting + 2 Pointers
 
 
@@ -372,11 +376,13 @@
 1. Add Strings
 [PL] https://leetcode.com/problems/add-strings/
 [SL] https://leetcode.com/problems/add-strings/submissions/1671447600/
+[RL](3-strings\22-add-strings.md)
 [DA] Easy | Basic Manipulation, Carry Propagation
 
 2. Shortest Distance to a Character
 [PL] https://leetcode.com/problems/shortest-distance-to-a-character/description/
 [SL] https://leetcode.com/problems/shortest-distance-to-a-character/submissions/1802422287/
+[RL](3-strings\23-shortest-distance-to-character.md)
 [DA] Easy | Two Pass
 
 
@@ -633,16 +639,19 @@
 10. Swap Nodes in Pairs
 [PL] https://leetcode.com/problems/swap-nodes-in-pairs/description/
 [SL] https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1818844930/
+[RL](2-linked_list\13-swap-nodes-in-pairs.md)
 [DA] Medium | Dummy Node / Pointer Manipulation
 
 11. Sort List
 [PL] https://leetcode.com/problems/sort-list/description/
 [SL] 
+[RL](2-linked_list\14-sort-list.md)
 [DA] Medium | Merge Sort on LL
 
 12. Reorder List
 [PL] https://leetcode.com/problems/reorder-list/description/
 [SL] https://leetcode.com/problems/reorder-list/submissions/1800293012/
+[RL](2-linked_list\15-reorder-list.md)
 [DA] Medium | Find Middle + Reverse + Merge
 
 
@@ -666,7 +675,7 @@
 1. **Flattening a Linked List**
 [PL] https://takeuforward.org/data-structure/flattening-a-linked-list
 [SL]
-[RL](2-linked_list\10-TODO-flattening-ll.md)
+[RL](2-linked_list\10-flattening-ll.md)
 [DA] Medium | Merge Sort, Divide & Conquer, Recursive Merge
 
 2. **Reverse Linked List II**
